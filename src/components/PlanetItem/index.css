@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.img-1 {
+  height: 300px;
+  width: 400px;
+}
+
+.item-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.i-h-1 {
+  font-family: 'Roboto';
+  color: #f8fafc;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.i-p-1 {
+  font-family: 'Roboto';
+  color: #f1f5f9;
+  font-size: 20px;
+  font-weight: 600;
+}
